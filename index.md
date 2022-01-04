@@ -6,7 +6,7 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Live demo on Github Pages: [https://robot716.github.io](https://robot716.github.io)
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
@@ -39,7 +39,7 @@ This theme can be ran locally using Ruby and Gemfiles.
 
 The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
 
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
+[https://robot716.github.io/?q=generated](https://robot716.github.io/?q=generated)
 
 ## Code highlight
 
