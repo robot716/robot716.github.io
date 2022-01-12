@@ -10,52 +10,53 @@ layout: post
      <h1>文博</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
+             <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/phone-solid.svg" width="18px">
              12345678912
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
+             <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/envelope-solid.svg" width="18px">
              dengwenbo0612@gmail.com
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
+             <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/github-brands.svg" width="18px">
              <a href="https://github.com/dengwenbo6">GitHub</a>
          </span>
          ·
          <span>
-             <img src="assets/rss-solid.svg" width="18px">
+             <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/rss-solid.svg" width="18px">
              <a href="https://dengwenbo6.github.io/">My Blog</a>
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+
+ ## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1996 年，重庆，中共党员
  - 求职意向：**岗位
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，清华大学，**专业，2018.09~至今.
 - 学士，北京大学，**专业，2014.09~2018.07.
 - 通过了 CET6 英语等级考试，计算机四级认证，软考中级认证(网络工程师).
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 校外实习
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/briefcase-solid.svg" width="30px"> 校外实习
 
 - **##公司，##部门，##岗位，2018.7~2018.11**
   - **项目描述**：#####################################################
   - **工作描述**：#####################################################
 
-## <img src="assets/project-diagram-solid.svg" width="35px">个人项目
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/project-diagram-solid.svg" width="35px">个人项目
 
 - **项目一**：#########################################################
 - **项目二**：#########################################################
 - **项目二**：###########
 - **项目三**：#########################################################
 
-## <img src="assets/tools-solid.svg" width="30px"> 职场技能
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/tools-solid.svg" width="30px"> 职场技能
 
 - 精通############################################################
 - 精通############################################################
@@ -64,13 +65,13 @@ layout: post
 - 了解############################################################
 - 了解############################################################
 
-## <img src="assets/9.png" width="30px"> 获奖情况
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/9.png" width="30px"> 获奖情况
 
 - ###############################################################
 - ###############################################################
 - ###############################################################
 
-## <img src="assets/0.png" width="30px"> 自我评价
+## <img src="https://github.com/robot716/robot716.github.io/raw/main/_posts/assets/0.png" width="30px"> 自我评价
 
 - ###############################################################
 - ###############################################################
