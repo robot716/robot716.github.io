@@ -1,0 +1,3 @@
+输出markdown文档存放：robot716.github.io\_posts 中
+   markdown格式命名：  日期-名字.md  例子：2022-01-12-wenbo.md
+图片格式链接：
