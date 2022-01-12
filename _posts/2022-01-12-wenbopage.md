@@ -8,7 +8,7 @@ layout: post
 
  <center>
      <img src="https://robot716.github.io/assets\img\dengwenbo\wenbo.jpg" width="300px" style="width: 200px;height: 200px; border-radius:100px;overflow: hidden;">
-     <p>文博</p>
+     <p><b>文博</b></p>
      <div>
          <span>
              <img src="https://robot716.github.io/assets/img/resume/phone-solid.svg" width="18px">
