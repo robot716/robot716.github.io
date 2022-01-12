@@ -7,7 +7,8 @@ layout: post
 ---
 
  <center>
-     <h1>文博</h1>
+     <img src="https://robot716.github.io/assets\img\dengwenbo\wenbo.jpg" width="300px" style="width: 200px;height: 200px; border-radius:100px;overflow: hidden;">
+     <p>文博</p>
      <div>
          <span>
              <img src="https://robot716.github.io/assets/img/resume/phone-solid.svg" width="18px">
@@ -30,6 +31,7 @@ layout: post
          </span>
      </div>
  </center>
+
 
 
  ## <img src="https://robot716.github.io/assets/img/resume/info-circle-solid.svg" width="30px"> 个人信息 
