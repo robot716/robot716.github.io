@@ -43,7 +43,7 @@ exclude:
 destination:      ./_site
 incremental:      false
 regenerate:       true
-
+post_asset_folder: true
 plugins:
   - jekyll-feed
   - jemoji
